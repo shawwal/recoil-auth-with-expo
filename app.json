@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sdk39",
-    "slug": "sdk39",
+    "name": "authApp",
+    "slug": "authApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
